@@ -2,7 +2,7 @@
 
 # <span style="color:#06B6D4">Norman Leyva García</span>
 
-### <span style="color:#14B8A6">Desarrollador Junior | JavaScript • TypeScript • React • Node.js</span>
+### <span style="color:#14B8A6">Fullstack Web Deceloper | JavaScript • TypeScript • Astro • React • Node.js</span>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=06B6D4&center=true&vCenter=true&width=600&height=50&lines=Estudiante+DAW;Frontend+%2B+Backend;Clean+Code;Always+Learning" />
 
@@ -12,12 +12,11 @@
 
 ## <span style="color:#3B82F6">Sobre mí</span>
 
-Desarrollador junior en formación durante **Desarrollo de Aplicaciones Web (DAW)**. Enfocado en crear aplicaciones web funcionales y bien estructuradas. Me encanta resolver problemas con código limpio y estoy comprometido con mi crecimiento profesional.
+Desarrollador Fullstack enfocado en crear aplicaciones web funcionales y bien estructuradas. Me encanta resolver problemas con código limpio y estoy comprometido con mi crecimiento profesional.
 
-- **Formación**: Estudiando DAW
-- **Especialidad**: Frontend (React) + Backend (Node.js)
+- **Formación**: Graduado en DAW | Grado Superior en Desarrollo de Aplicaciones Web
+- **Especialidad**: Frontend Astro
 - **Mentalidad**: Aprendizaje continuo
-- **Objetivo**: Mi primer oportunidad como desarrollador
 
 ---
 
