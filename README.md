@@ -2,7 +2,7 @@
 
 # <span style="color:#06B6D4">Norman Leyva García</span>
 
-### <span style="color:#14B8A6">Fullstack Web Deceloper | JavaScript • TypeScript • Astro • React • Node.js</span>
+### <span style="color:#14B8A6">Fullstack Web Developer | JavaScript • TypeScript • Astro • React • Node.js</span>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=06B6D4&center=true&vCenter=true&width=600&height=50&lines=Estudiante+DAW;Frontend+%2B+Backend;Clean+Code;Always+Learning" />
 
