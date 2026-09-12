@@ -63,21 +63,6 @@ Aprendiendo las capacidades modernas de Next.js para aplicaciones web escalables
 
 ---
 
-## <span style="font-family:Georgia,serif;color:#6366F1">🎓 Mi Objetivo Profesional</span>
-
-<blockquote style="border-left:4px solid #6366F1;padding-left:12px;margin:16px 0;background:#f9f9f9;padding:12px;border-radius:4px">
-
-**Busco mi primera oportunidad laboral** como desarrollador para:
-
-1. Aplicar lo aprendido en DAW en un proyecto real
-2. Crecer como programador trabajando en equipo
-3. Aprender de desarrolladores más experimentados
-4. Crear soluciones que aporten valor
-
-</blockquote>
-
----
-
 ## <span style="color:#9D4EDD">GitHub Stats</span>
 
 ---
